@@ -45,6 +45,7 @@ jobs:
           - packages/graph/spanner
           - packages/graph/turbopuffer
           - packages/graph/turingdb
+          - packages/graph/typedb
           - packages/vector/azureaisearch
           - packages/vector/milvus
           - packages/vector/moss
